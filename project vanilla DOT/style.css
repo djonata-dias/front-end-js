@@ -1,0 +1,39 @@
+/* For mobile phones */
+
+body {
+  padding: 10px;
+}
+
+/* Classes de uso geral */
+
+.full {
+  width: 100%;
+}
+
+* {
+    border: 1px solid black;
+}
+
+/* Formulário de contato */
+.formInput {
+  margin: 5px 0;
+  border-radius: 7px;
+}
+
+.contactForm {
+  display: flex;
+align-content: center;
+flex-flow: row;
+}
+
+
+
+
+@media only screen and (orientation: landscape) {
+
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop */
+
+}
